@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 70C8-C43C
+
+ Directory of C:\Users\Dell\Desktop\batch5dem
+
+26-02-2019  10:49    <DIR>          .
+26-02-2019  10:49    <DIR>          ..
+26-02-2019  10:49                 0 first.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  116,329,545,728 bytes free
